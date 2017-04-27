@@ -1,0 +1,18 @@
+{
+    "domains": {
+        "www.middle2.me": [
+            [
+                "A",
+                "52.69.187.52"
+            ],
+            [
+                "TXT",
+                "301 https://middle2.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

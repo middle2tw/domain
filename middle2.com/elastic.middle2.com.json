@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "elastic.middle2.com": [
+            [
+                "CNAME",
+                "taichung-meng-291962.middle2.me"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

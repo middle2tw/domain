@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "git.middle2.com": [
+            [
+                "CNAME",
+                "middle2.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

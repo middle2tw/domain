@@ -1,0 +1,43 @@
+{
+    "domains": {
+        "middle2.com": [
+            [
+                "A",
+                "139.162.117.168"
+            ],
+            [
+                "MX",
+                "alt1.aspmx.l.google.com",
+                5
+            ],
+            [
+                "MX",
+                "alt2.aspmx.l.google.com",
+                5
+            ],
+            [
+                "MX",
+                "aspmx2.googlemail.com",
+                10
+            ],
+            [
+                "MX",
+                "aspmx3.googlemail.com",
+                10
+            ],
+            [
+                "MX",
+                "aspmx.l.google.com",
+                1
+            ],
+            [
+                "TXT",
+                "google-site-verification=1N1UX8TnfP16tp0VVjiHzHIGtr-2fWxV177KqVuP-Ks"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

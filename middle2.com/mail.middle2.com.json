@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "mail.middle2.com": [
+            [
+                "CNAME",
+                "ghs.googlehosted.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}
