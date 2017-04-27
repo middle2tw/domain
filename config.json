@@ -1,0 +1,16 @@
+{
+    "_global_" : {
+        "cloudflare_key": "---change me---",
+        "cloudflare_mail": "admin@middle2.com"
+    },
+    "middle2.com": {
+        "github_repo": "git@github.com:middle2tw/domain",
+        "github_path": "/middle2.com",
+        "cloudflare_zoneid": "bc9b113218dcaa6747c65f3408fc5cbe"
+    },
+    "middle2.me": {
+        "github_repo": "git@github.com:middle2tw/domain",
+        "github_path": "/middle2.me",
+        "cloudflare_zoneid": "8e76f9e6b4d1672f0b7a876dcded785b"
+    }
+}
