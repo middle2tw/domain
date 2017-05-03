@@ -1,0 +1,20 @@
+{
+    "domains": {
+        "_amazonses.middle2.com": [
+            ["TXT", "32B69rzMvnFen16rapiEz62op4E00BJkZgcRMW8JphU="]
+        ],
+        "2k4plgucrv2rm5yxx3nsmkdavfjjg3j6._domainkey.middle2.com": [
+            ["CNAME", "2k4plgucrv2rm5yxx3nsmkdavfjjg3j6.dkim.amazonses.com"]
+        ],
+        "q5wsgfbipcolerh4azoyabxvr2av2v73._domainkey.middle2.com": [
+            ["CNAME", "q5wsgfbipcolerh4azoyabxvr2av2v73.dkim.amazonses.com"]
+        ],
+        "65nusbmfnjmy46qeok6emknoz5t7u2mn._domainkey.middle2.com": [
+            ["CNAME", "65nusbmfnjmy46qeok6emknoz5t7u2mn.dkim.amazonses.com"]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}
