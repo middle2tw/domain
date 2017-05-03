@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "docker-registry.try.middle2.com": [
+            [
+                "A",
+                "10.140.0.2"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}
