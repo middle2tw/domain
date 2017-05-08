@@ -1,0 +1,11 @@
+{
+    "domains": {
+        "637884618E205647FD23B48BBDB0A688.hackpad.tw": [
+            [
+                "CNAME",
+                "99FE8CCBC2C7412190F82EC767E11E3BC024D699.comodoca.com"
+            ]
+        ]
+    },
+    "description": "for wildcard ssl Domain Control Validation"
+}
