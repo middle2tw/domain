@@ -1,9 +1,9 @@
 {
     "domains": {
-        "*.middle2.me": [
+        "app.middle2.me": [
             [
-                "CNAME",
-                "app.middle2.me"
+                "A",
+                "52.230.31.37"
             ]
         ]
     },
