@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "image-proxy.s.hackpad.tw": [
+            [
+                "CNAME",
+                "yunlin-pai-497147.middle2.me"
+            ]
+        ]
+    },
+    "repository": "https://github.com/middle2tw/hackpad-image-proxy",
+    "maintainer": [
+        "Ronny Wang"
+    ]
+}
