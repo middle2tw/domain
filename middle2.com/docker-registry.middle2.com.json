@@ -1,9 +1,9 @@
 {
     "domains": {
-        "docker-registry.middle2.com": [
+        "docker-registry-linode-1.middle2.com": [
             [
                 "A",
-                "139.162.117.168"
+                "172.104.98.144"
             ]
         ],
         "docker-registry-azure-1.middle2.com": [
