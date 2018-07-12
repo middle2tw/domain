@@ -1,9 +1,9 @@
 {
     "domains": {
-        "docker-registry.try.middle2.com": [
+        "app.try.middle2.me": [
             [
-                "CNAME",
-                "try.middle2.com"
+                "A",
+                "35.201.192.30"
             ]
         ]
     },

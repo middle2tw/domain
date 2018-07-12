@@ -2,8 +2,8 @@
     "domains": {
         "*.try.middle2.me": [
             [
-                "A",
-                "104.199.246.114"
+                "CNAME",
+                "app.try.middle2.me"
             ]
         ]
     },
