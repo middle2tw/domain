@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "elastic-2.middle2.com": [
+            [
+                "A",
+                "139.162.121.47"
+            ]
+        ]
+    },
+    "repository": "https://github.com/middle2tw/middle2/blob/master/docs/elastic/note",
+    "maintainer": [
+        "oooooooo"
+    ]
+}
